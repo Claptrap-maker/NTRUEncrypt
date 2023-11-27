@@ -1,0 +1,3 @@
+C:/Users/Lelik/CLionProjects/NTRUEncrypt/cmake-build-debug/CMakeFiles/NTRUEncrypt.dir
+C:/Users/Lelik/CLionProjects/NTRUEncrypt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lelik/CLionProjects/NTRUEncrypt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
